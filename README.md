@@ -5,7 +5,7 @@
 ###
 
 <div data-importer="image" align="center">
-  <img data-importer="image" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHFiaWxpdHluZ2ZtbXFlZDB4bGFxcHNiNzl6ZGxsYm82dnNyeW1wdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UsVX1QDSLlCjw8PpJS/giphy.gif"  />
+  <img data-importer="image" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjBvMDNqeTE1bGVhZmF4YmxoamltdnJ4ZGtpcHpneDQ3eGNseHhhcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QlZUXGC3AIcFYdBF1K/giphy.gif"  />
 </div>
 
 ###
@@ -46,7 +46,7 @@
 
 ###
 
-<div data-importer="techs" align="left">
+<div data-importer="techs" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
