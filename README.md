@@ -1,5 +1,4 @@
-## Hi, I'm Klarence an IT graduate with a background in computer programming, networking, data-base systems, and cyber-security 
-fundamentals.
+## Hi, I'm Klarence an IT graduate with a background in computer programming, networking, data-base systems, and cyber-security fundamentals.
 
 # 💫 About Me:
 Graduated in Bachelor's of Information Technology<br>I like things that i can focus on, like debugging, programming and designing.<br>I like watching Anime.<br>I like playing League (not really).<br>I like hanging out with my friends.<br>I like trying out new things. 
