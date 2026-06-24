@@ -1,4 +1,7 @@
-## Hi, I'm Klarence an IT graduate with a background in computer programming, networking, data-base systems, and cyber-security fundamentals.
+<div data-importer="image" align="center">
+  <img data-importer="image" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHFiaWxpdHluZ2ZtbXFlZDB4bGFxcHNiNzl6ZGxsYm82dnNyeW1wdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UsVX1QDSLlCjw8PpJS/giphy.gif"  />
+</div>
+
 
 # 💫 About Me:
 Graduated in Bachelor's of Information Technology<br>I like things that i can focus on, like debugging, programming and designing.<br>I like watching Anime.<br>I like playing League (not really).<br>I like hanging out with my friends.<br>I like trying out new things. 
